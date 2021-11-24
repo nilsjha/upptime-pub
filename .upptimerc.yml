@@ -4,9 +4,9 @@ repo: upptime-pub # The name of this repository
 
 sites:
   - name: Element/Matrix
-    url: https://element.haugen.ch
+    url: $URI_443_SERVER_0
   - name: Northridge
-    url: https://northridge.gaupne.net
+    url: $URI_443_SERVER_1
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
