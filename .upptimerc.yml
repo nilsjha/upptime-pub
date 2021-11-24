@@ -3,10 +3,13 @@ owner: nilsjha # Your GitHub organization or username, where this repository liv
 repo: upptime-pub # The name of this repository
 
 sites:
-  - name: Element/Matrix
+  - name: Southbound TDC DE-HEF-DC-CL
     url: $URI_443_SERVER_0
-  - name: Northridge
+  - name: Northridge PDC NO-VLG-DC-LS
     url: $URI_443_SERVER_1
+  - name: Coasthill Edge NO-MRA-EC-LE
+    url: $URI_443_SERVER_3_NC_WEST
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
