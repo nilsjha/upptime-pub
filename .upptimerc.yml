@@ -15,6 +15,10 @@ sites:
     check: "tcp-ping"
     url: $IP_53_SERVER_NO_VES
     port: 53
+  - name: DNS-S2
+    check: "tcp-ping"
+    url: $IP_53_SERVER_NO_VES2
+    port: 53
 
 
 status-website:
