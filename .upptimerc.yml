@@ -3,13 +3,13 @@ owner: nilsjha # Your GitHub organization or username, where this repository liv
 repo: upptime-pub # The name of this repository
 
 sites:
-  - name: Southbound TDC DE-HEF-DC-CL
+  - name: Southbound DE-HEF-DC-CL
     url: $URI_443_SERVER_0
-  - name: Northridge PDC NO-VLG-DC-LS
+  - name: Northridge NO-VLG-DC-LS
     url: $URI_443_SERVER_1
-  - name: Northridge SDC NO-VLG-DC-LN
+  - name: Northridge NO-VLG-DC-LN
     url: $URI_443_SERVER_NC_LUKNS
-  - name: Coasthill Edge NO-MRA-EC-LE
+  - name: Coasthill NO-MRA-EC-LE
     url: $URI_443_SERVER_3_NC_WEST
 
 
