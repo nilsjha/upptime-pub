@@ -1,7 +1,5 @@
 # [📈 Live Status](https://nilsjha.github.io/upptime-pub): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Nils Jarle Haugen](https://nilsjha.github.io/upptime-pub), powered by [Upptime](https://github.com/upptime/upptime).
-
 [![Uptime CI](https://github.com/nilsjha/upptime-pub/workflows/Uptime%20CI/badge.svg)](https://github.com/nilsjha/upptime-pub/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/nilsjha/upptime-pub/workflows/Response%20Time%20CI/badge.svg)](https://github.com/nilsjha/upptime-pub/actions?query=workflow%3A%22Response+Time+CI%22)
 [![Graphs CI](https://github.com/nilsjha/upptime-pub/workflows/Graphs%20CI/badge.svg)](https://github.com/nilsjha/upptime-pub/actions?query=workflow%3A%22Graphs+CI%22)
