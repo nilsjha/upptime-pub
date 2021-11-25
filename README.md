@@ -28,5 +28,5 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [Nils Jarle Haugen](https://nilsjha.github.io/upptime-pub)
+- Code: [MIT](./LICENSE) © [nilsjha](https://nilsjha.github.io/upptime-pub)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
