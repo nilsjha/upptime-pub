@@ -58,19 +58,19 @@
     "url": "$URI_443_SERVER_3_NC_WEST",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "coasthill-no-mra-ec-le",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 822,
-    "timeDay": 502,
-    "timeWeek": 822,
-    "timeMonth": 822,
-    "timeYear": 822,
+    "status": "up",
+    "uptime": "99.67%",
+    "uptimeDay": "98.14%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
+    "time": 814,
+    "timeDay": 618,
+    "timeWeek": 814,
+    "timeMonth": 814,
+    "timeYear": 814,
     "dailyMinutesDown": {
-      "2021-11-30": 0
+      "2021-11-30": 27
     }
   },
   {
