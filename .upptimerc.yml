@@ -5,6 +5,10 @@ repo: upptime-pub # The name of this repository
 sites:
   - name: Southbound DE-HEF-DC-CL
     url: $URI_443_SERVER_0
+  - name: Eastend FI-HEL-DC-CL
+    url: $IP_SERVER_FI_HEL1
+    check: "tcp-ping"
+    port: $PORT_TCP_SERVER_FI_HEL1
   - name: Northridge NO-VLG-DC-LS
     url: $URI_443_SERVER_1
   - name: Northridge NO-VLG-DC-LN
