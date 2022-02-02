@@ -4,10 +4,10 @@
     "url": "$URI_443_SERVER_0",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "southbound-de-hef-dc-cl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 588,
@@ -15,7 +15,9 @@
     "timeWeek": 652,
     "timeMonth": 583,
     "timeYear": 588,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-02": 1
+    }
   },
   {
     "name": "Eastend FI-HEL-DC-CL",
