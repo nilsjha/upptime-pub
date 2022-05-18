@@ -142,19 +142,19 @@
     "url": "$IP_53_SERVER_NO_VES2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dns-s2",
-    "status": "down",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "61.66%",
-    "uptimeWeek": "94.52%",
-    "uptimeMonth": "98.74%",
+    "uptimeDay": "61.28%",
+    "uptimeWeek": "94.47%",
+    "uptimeMonth": "98.73%",
     "uptimeYear": "99.78%",
     "time": 143,
     "timeDay": 139,
-    "timeWeek": 142,
+    "timeWeek": 141,
     "timeMonth": 143,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2022-05-18": 552
+      "2022-05-18": 558
     }
   }
 ]
