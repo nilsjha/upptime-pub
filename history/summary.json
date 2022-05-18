@@ -142,7 +142,7 @@
     "url": "$IP_53_SERVER_NO_VES2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dns-s2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "96.60%",
     "uptimeWeek": "99.51%",
