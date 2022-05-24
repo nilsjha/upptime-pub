@@ -1,7 +1,7 @@
 url: $IP_53_SERVER_NO_VES2
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-05-24T15:58:47.913Z
+status: up
+code: 200
+responseTime: 158
+lastUpdated: 2022-05-24T16:54:59.603Z
 startTime: Wed Nov 24 2021 22:28:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
