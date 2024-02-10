@@ -40,19 +40,19 @@
     "url": "$URI_443_SERVER_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "northridge-no-vlg-dc-ls",
-    "status": "down",
-    "uptime": "97.33%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "97.32%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1060,
-    "timeDay": 942,
-    "timeWeek": 942,
-    "timeMonth": 942,
-    "timeYear": 942,
+    "time": 1081,
+    "timeDay": 1502,
+    "timeWeek": 1502,
+    "timeMonth": 1502,
+    "timeYear": 1502,
     "dailyMinutesDown": {
-      "2024-02-10": 0
+      "2024-02-10": 13
     }
   },
   {
