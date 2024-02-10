@@ -1,7 +1,7 @@
 url: $IP_SERVER_FI_HEL1
 status: up
 code: 200
-responseTime: 118
-lastUpdated: 2022-11-22T23:09:22.558Z
-startTime: Sat Jan 22 2022 12:53:28 GMT+0000 (Coordinated Universal Time)
+responseTime: 113
+lastUpdated: 2024-02-10T18:15:41.204Z
+startTime: 2022-01-22T12:53:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
