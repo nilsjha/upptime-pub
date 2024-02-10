@@ -1,7 +1,7 @@
 url: $URI_443_SERVER_1
 status: down
-code: 500
-responseTime: 568
-lastUpdated: 2024-02-10T22:11:41.977Z
+code: 502
+responseTime: 465
+lastUpdated: 2024-02-10T23:09:19.229Z
 startTime: 2021-11-24T22:20:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
