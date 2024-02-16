@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 574,
-    "timeDay": 714,
-    "timeWeek": 543,
-    "timeMonth": 543,
-    "timeYear": 543,
+    "time": 576,
+    "timeDay": 806,
+    "timeWeek": 567,
+    "timeMonth": 567,
+    "timeYear": 567,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 177,
-    "timeWeek": 135,
-    "timeMonth": 135,
-    "timeYear": 135,
+    "timeDay": 176,
+    "timeWeek": 139,
+    "timeMonth": 139,
+    "timeYear": 139,
     "dailyMinutesDown": {}
   },
   {
@@ -47,10 +47,10 @@
     "uptimeMonth": "98.01%",
     "uptimeYear": "99.83%",
     "time": 1071,
-    "timeDay": 1117,
-    "timeWeek": 1158,
-    "timeMonth": 1158,
-    "timeYear": 1158,
+    "timeDay": 1088,
+    "timeWeek": 1154,
+    "timeMonth": 1154,
+    "timeYear": 1154,
     "dailyMinutesDown": {
       "2024-02-11": 763,
       "2024-02-10": 108
@@ -62,16 +62,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "northridge-no-vlg-dc-ln",
     "status": "up",
-    "uptime": "97.58%",
+    "uptime": "97.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 909,
-    "timeDay": 989,
-    "timeWeek": 737,
-    "timeMonth": 737,
-    "timeYear": 737,
+    "time": 910,
+    "timeDay": 979,
+    "timeWeek": 757,
+    "timeMonth": 757,
+    "timeYear": 757,
     "dailyMinutesDown": {
       "2024-02-11": 41
     }
@@ -87,11 +87,11 @@
     "uptimeWeek": "99.21%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.98%",
-    "time": 786,
-    "timeDay": 606,
-    "timeWeek": 579,
-    "timeMonth": 579,
-    "timeYear": 579,
+    "time": 785,
+    "timeDay": 601,
+    "timeWeek": 582,
+    "timeMonth": 582,
+    "timeYear": 582,
     "dailyMinutesDown": {
       "2024-02-11": 41,
       "2024-02-10": 38
@@ -109,10 +109,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 134,
-    "timeDay": 176,
-    "timeWeek": 129,
-    "timeMonth": 129,
-    "timeYear": 129,
+    "timeDay": 175,
+    "timeWeek": 133,
+    "timeMonth": 133,
+    "timeYear": 133,
     "dailyMinutesDown": {}
   }
 ]
