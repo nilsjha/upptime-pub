@@ -4,18 +4,20 @@
     "url": "$URI_443_SERVER_0",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "southbound-de-hef-dc-cl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 575,
-    "timeDay": 475,
-    "timeWeek": 559,
-    "timeMonth": 559,
-    "timeYear": 559,
-    "dailyMinutesDown": {}
+    "timeDay": 478,
+    "timeWeek": 552,
+    "timeMonth": 553,
+    "timeYear": 553,
+    "dailyMinutesDown": {
+      "2024-02-17": 0
+    }
   },
   {
     "name": "Eastend FI-HEL-DC-CL",
@@ -30,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 142,
     "timeDay": 126,
-    "timeWeek": 138,
+    "timeWeek": 137,
     "timeMonth": 138,
     "timeYear": 138,
     "dailyMinutesDown": {}
@@ -48,7 +50,7 @@
     "uptimeYear": "99.83%",
     "time": 1070,
     "timeDay": 850,
-    "timeWeek": 1135,
+    "timeWeek": 849,
     "timeMonth": 1135,
     "timeYear": 1135,
     "dailyMinutesDown": {
@@ -69,7 +71,7 @@
     "uptimeYear": "99.99%",
     "time": 908,
     "timeDay": 686,
-    "timeWeek": 752,
+    "timeWeek": 756,
     "timeMonth": 752,
     "timeYear": 752,
     "dailyMinutesDown": {
@@ -84,12 +86,12 @@
     "status": "up",
     "uptime": "99.65%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.21%",
+    "uptimeWeek": "99.59%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.98%",
     "time": 784,
     "timeDay": 498,
-    "timeWeek": 572,
+    "timeWeek": 571,
     "timeMonth": 572,
     "timeYear": 572,
     "dailyMinutesDown": {
