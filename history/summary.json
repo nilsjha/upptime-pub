@@ -24,9 +24,9 @@
     "url": "$IP_SERVER_FI_HEL1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eastend-fi-hel-dc-cl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 149,
     "timeMonth": 142,
     "timeYear": 137,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-02": 0
+    }
   },
   {
     "name": "Northridge NO-VLG-DC-LS",
