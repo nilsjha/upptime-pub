@@ -4,9 +4,9 @@
     "url": "$URI_443_SERVER_0",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "southbound-de-hef-dc-cl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -16,6 +16,7 @@
     "timeMonth": 593,
     "timeYear": 585,
     "dailyMinutesDown": {
+      "2024-11-05": 0,
       "2024-02-17": 202
     }
   },
