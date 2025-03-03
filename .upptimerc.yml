@@ -4,8 +4,6 @@ repo: upptime-pub # The name of this repository
 user-agent: nilsjha
 
 sites:
-  - name: Southbound DE-HEF-DC-CL
-    url: $URI_443_SERVER_0
   - name: Eastend FI-HEL-DC-CL
     url: $IP_SERVER_FI_HEL1
     check: "tcp-ping"
@@ -20,10 +18,6 @@ sites:
     check: "tcp-ping"
     url: $IP_53_SERVER_NO_VES
     port: 53
-#  - name: DNS-S2
-#    check: "tcp-ping"
-#    url: $IP_53_SERVER_NO_VES2
-#    port: 53
 
 
 status-website:
