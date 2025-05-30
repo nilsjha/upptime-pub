@@ -4,16 +4,16 @@
     "url": "$IP_SERVER_FI_HEL1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eastend-fi-hel-dc-cl",
-    "status": "down",
+    "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "4.98%",
+    "uptimeDay": "57.16%",
     "uptimeWeek": "77.51%",
     "uptimeMonth": "94.82%",
     "uptimeYear": "99.40%",
     "time": 139,
-    "timeDay": 154,
-    "timeWeek": 149,
-    "timeMonth": 141,
+    "timeDay": 162,
+    "timeWeek": 158,
+    "timeMonth": 144,
     "timeYear": 139,
     "dailyMinutesDown": {
       "2025-05-29": 676,
@@ -33,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "77.76%",
     "uptimeYear": "95.87%",
-    "time": 984,
-    "timeDay": 862,
-    "timeWeek": 910,
-    "timeMonth": 1062,
-    "timeYear": 988,
+    "time": 985,
+    "timeDay": 1122,
+    "timeWeek": 960,
+    "timeMonth": 1073,
+    "timeYear": 989,
     "dailyMinutesDown": {
       "2025-05-19": 274,
       "2025-05-18": 1440,
@@ -59,8 +59,7 @@
       "2024-06-29": 1440,
       "2024-06-28": 1440,
       "2024-06-27": 812,
-      "2024-05-31": 54,
-      "2024-05-30": 72
+      "2024-05-31": 54
     }
   },
   {
@@ -74,10 +73,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "77.76%",
     "uptimeYear": "95.88%",
-    "time": 814,
-    "timeDay": 584,
-    "timeWeek": 758,
-    "timeMonth": 785,
+    "time": 815,
+    "timeDay": 936,
+    "timeWeek": 801,
+    "timeMonth": 797,
     "timeYear": 811,
     "dailyMinutesDown": {
       "2025-05-19": 274,
@@ -100,8 +99,7 @@
       "2024-06-29": 1440,
       "2024-06-28": 1440,
       "2024-06-27": 812,
-      "2024-05-31": 54,
-      "2024-05-30": 72
+      "2024-05-31": 54
     }
   },
   {
@@ -110,18 +108,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "coasthill-no-mra-ec-le",
     "status": "down",
-    "uptime": "97.29%",
+    "uptime": "97.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "22.87%",
-    "uptimeYear": "91.28%",
-    "time": 602,
+    "uptimeMonth": "21.15%",
+    "uptimeYear": "91.14%",
+    "time": 601,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 585,
-    "timeYear": 571,
+    "timeMonth": 609,
+    "timeYear": 572,
     "dailyMinutesDown": {
-      "2025-05-29": 748,
+      "2025-05-30": 59,
+      "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
@@ -159,8 +158,7 @@
       "2024-06-28": 1440,
       "2024-06-27": 811,
       "2024-06-02": 59,
-      "2024-05-31": 53,
-      "2024-05-30": 71
+      "2024-05-31": 53
     }
   },
   {
@@ -175,9 +173,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 101,
-    "timeWeek": 120,
-    "timeMonth": 123,
+    "timeDay": 166,
+    "timeWeek": 130,
+    "timeMonth": 125,
     "timeYear": 130,
     "dailyMinutesDown": {}
   }
