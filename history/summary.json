@@ -6,14 +6,14 @@
     "slug": "eastend-fi-hel-dc-cl",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "57.16%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "77.51%",
     "uptimeMonth": "94.82%",
     "uptimeYear": "99.40%",
-    "time": 139,
-    "timeDay": 162,
-    "timeWeek": 158,
-    "timeMonth": 144,
+    "time": 140,
+    "timeDay": 177,
+    "timeWeek": 159,
+    "timeMonth": 145,
     "timeYear": 139,
     "dailyMinutesDown": {
       "2025-05-29": 676,
@@ -28,15 +28,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "northridge-no-vlg-dc-ls",
     "status": "up",
-    "uptime": "97.09%",
+    "uptime": "97.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "77.76%",
-    "uptimeYear": "95.87%",
+    "uptimeYear": "95.89%",
     "time": 985,
-    "timeDay": 1122,
-    "timeWeek": 960,
-    "timeMonth": 1073,
+    "timeDay": 1109,
+    "timeWeek": 979,
+    "timeMonth": 1074,
     "timeYear": 989,
     "dailyMinutesDown": {
       "2025-05-19": 274,
@@ -58,8 +58,7 @@
       "2024-06-30": 1440,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
-      "2024-06-27": 812,
-      "2024-05-31": 54
+      "2024-06-27": 812
     }
   },
   {
@@ -68,16 +67,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "northridge-no-vlg-dc-ln",
     "status": "up",
-    "uptime": "97.29%",
+    "uptime": "97.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "77.76%",
-    "uptimeYear": "95.88%",
+    "uptimeYear": "95.89%",
     "time": 815,
-    "timeDay": 936,
+    "timeDay": 918,
     "timeWeek": 801,
-    "timeMonth": 797,
-    "timeYear": 811,
+    "timeMonth": 802,
+    "timeYear": 812,
     "dailyMinutesDown": {
       "2025-05-19": 274,
       "2025-05-18": 1440,
@@ -98,8 +97,7 @@
       "2024-06-30": 1440,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
-      "2024-06-27": 812,
-      "2024-05-31": 54
+      "2024-06-27": 812
     }
   },
   {
@@ -108,18 +106,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "coasthill-no-mra-ec-le",
     "status": "down",
-    "uptime": "97.25%",
+    "uptime": "97.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "21.15%",
-    "uptimeYear": "91.14%",
+    "uptimeMonth": "17.87%",
+    "uptimeYear": "90.88%",
     "time": 601,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 609,
     "timeYear": 572,
     "dailyMinutesDown": {
-      "2025-05-30": 59,
+      "2025-05-31": 58,
+      "2025-05-30": 1440,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
@@ -157,8 +156,7 @@
       "2024-06-29": 1440,
       "2024-06-28": 1440,
       "2024-06-27": 811,
-      "2024-06-02": 59,
-      "2024-05-31": 53
+      "2024-06-02": 59
     }
   },
   {
@@ -174,8 +172,8 @@
     "uptimeYear": "100.00%",
     "time": 131,
     "timeDay": 166,
-    "timeWeek": 130,
-    "timeMonth": 125,
+    "timeWeek": 133,
+    "timeMonth": 126,
     "timeYear": 130,
     "dailyMinutesDown": {}
   }
