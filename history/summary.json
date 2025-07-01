@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.57%",
     "time": 138,
-    "timeDay": 117,
+    "timeDay": 177,
     "timeWeek": 146,
-    "timeMonth": 137,
+    "timeMonth": 136,
     "timeYear": 139,
     "dailyMinutesDown": {
       "2025-05-29": 676,
@@ -27,18 +27,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "northridge-no-vlg-dc-ls",
     "status": "down",
-    "uptime": "95.28%",
+    "uptime": "95.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "18.74%",
+    "uptimeMonth": "15.45%",
     "uptimeYear": "89.84%",
-    "time": 978,
+    "time": 977,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 988,
+    "timeMonth": 914,
     "timeYear": 993,
     "dailyMinutesDown": {
-      "2025-06-30": 65,
+      "2025-07-01": 69,
+      "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
@@ -78,8 +79,7 @@
       "2024-07-27": 37,
       "2024-07-26": 376,
       "2024-07-03": 1285,
-      "2024-07-02": 1440,
-      "2024-07-01": 1440
+      "2024-07-02": 1440
     }
   },
   {
@@ -88,18 +88,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "northridge-no-vlg-dc-ln",
     "status": "down",
-    "uptime": "95.48%",
+    "uptime": "95.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "18.74%",
+    "uptimeMonth": "15.45%",
     "uptimeYear": "89.84%",
-    "time": 806,
+    "time": 805,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 827,
+    "timeMonth": 764,
     "timeYear": 814,
     "dailyMinutesDown": {
-      "2025-06-30": 65,
+      "2025-07-01": 69,
+      "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
@@ -139,8 +140,7 @@
       "2024-07-27": 37,
       "2024-07-26": 376,
       "2024-07-03": 1285,
-      "2024-07-02": 1440,
-      "2024-07-01": 1440
+      "2024-07-02": 1440
     }
   },
   {
@@ -149,18 +149,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "coasthill-no-mra-ec-le",
     "status": "down",
-    "uptime": "94.96%",
+    "uptime": "94.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "83.40%",
-    "time": 579,
+    "time": 580,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 572,
     "dailyMinutesDown": {
-      "2025-06-30": 65,
+      "2025-07-01": 69,
+      "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
@@ -223,8 +224,7 @@
       "2024-07-27": 36,
       "2024-07-26": 375,
       "2024-07-03": 1285,
-      "2024-07-02": 1440,
-      "2024-07-01": 1440
+      "2024-07-02": 1440
     }
   },
   {
@@ -239,9 +239,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 130,
-    "timeDay": 101,
+    "timeDay": 166,
     "timeWeek": 132,
-    "timeMonth": 122,
+    "timeMonth": 121,
     "timeYear": 128,
     "dailyMinutesDown": {}
   }
