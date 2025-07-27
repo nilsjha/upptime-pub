@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.57%",
     "time": 139,
-    "timeDay": 161,
-    "timeWeek": 144,
+    "timeDay": 114,
+    "timeWeek": 141,
     "timeMonth": 141,
     "timeYear": 139,
     "dailyMinutesDown": {
@@ -27,18 +27,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "northridge-no-vlg-dc-ls",
     "status": "down",
-    "uptime": "93.43%",
+    "uptime": "93.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "83.77%",
+    "uptimeYear": "83.57%",
     "time": 975,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 994,
+    "timeYear": 965,
     "dailyMinutesDown": {
-      "2025-07-26": 63,
+      "2025-07-27": 71,
+      "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
@@ -100,8 +101,7 @@
       "2025-05-12": 829,
       "2024-12-20": 1416,
       "2024-12-19": 457,
-      "2024-11-09": 226,
-      "2024-07-27": 37
+      "2024-11-09": 226
     }
   },
   {
@@ -110,18 +110,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "northridge-no-vlg-dc-ln",
     "status": "down",
-    "uptime": "93.62%",
+    "uptime": "93.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "83.77%",
-    "time": 800,
+    "uptimeYear": "83.57%",
+    "time": 799,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 816,
+    "timeYear": 814,
     "dailyMinutesDown": {
-      "2025-07-26": 63,
+      "2025-07-27": 71,
+      "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
@@ -183,8 +184,7 @@
       "2025-05-12": 829,
       "2024-12-20": 1416,
       "2024-12-19": 457,
-      "2024-11-09": 226,
-      "2024-07-27": 37
+      "2024-11-09": 226
     }
   },
   {
@@ -193,18 +193,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "coasthill-no-mra-ec-le",
     "status": "down",
-    "uptime": "93.11%",
+    "uptime": "93.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "77.33%",
+    "uptimeYear": "77.12%",
     "time": 567,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 571,
+    "timeYear": 570,
     "dailyMinutesDown": {
-      "2025-07-26": 63,
+      "2025-07-27": 71,
+      "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
@@ -289,8 +290,7 @@
       "2024-12-20": 1416,
       "2024-12-19": 456,
       "2024-12-03": 35,
-      "2024-11-09": 225,
-      "2024-07-27": 36
+      "2024-11-09": 225
     }
   },
   {
@@ -305,8 +305,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 130,
-    "timeDay": 153,
-    "timeWeek": 131,
+    "timeDay": 99,
+    "timeWeek": 129,
     "timeMonth": 128,
     "timeYear": 128,
     "dailyMinutesDown": {}
